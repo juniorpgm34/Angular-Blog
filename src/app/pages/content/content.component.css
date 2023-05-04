@@ -17,6 +17,7 @@
 
 .content__description > p {
     color: rgb(172, 172, 172);
+    width: 750px;
 }
 
 .content__cover > img {
