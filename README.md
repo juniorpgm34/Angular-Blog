@@ -4,14 +4,15 @@ Este é um projeto simples que desenvolvi durante o curso de Angular da Digital 
 # Sobre o Projeto
 O blog foi desenvolvido utilizando o Angular, um dos frameworks mais populares e poderosos para a criação de aplicações web. Utilizei diversos recursos, como componentes, diretivas, serviços e rotas, para construir a estrutura do blog.
 
-# Tecnologias Utilizadas
-Angular
-TypeScript
-HTML
-CSS
-Bootstrap
+# :technologist: Tecnologias Utilizadas
 
-# Como Executar
+- Angular
+- TypeScript
+- HTML
+- CSS
+- Bootstrap
+
+# :inbox_tray: Como Executar
 Para executar o projeto, é necessário ter o Angular CLI instalado em sua máquina. Em seguida, basta clonar o repositório e executar o seguinte comando:
 
 ```
